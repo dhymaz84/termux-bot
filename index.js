@@ -59,9 +59,9 @@ const anlink = JSON.parse(fs.readFileSync('./database/json/antilink.json'))
 
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:Farhan\n'
-            + 'ORG:Creator FXC7;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=628311800241:+62 831-1800-241\n'
+            + 'FN:Mass\n'
+            + 'ORG:Creator AV;\n'
+            + 'TEL;type=CELL;type=VOICE;waid=6285796582392:+62 857-9658-2392\n'
             + 'END:VCARD'
 
 limitt = '1000'
@@ -189,10 +189,10 @@ async function starts() {
 			
 			]
 			const ownerNumber = [
-			"628311800241@s.whatsapp.net"
+			"6285796582392@s.whatsapp.net"
 			]
 			premium = [
-			"628311800241@s.whatsapp.net"
+			"6285796582392@s.whatsapp.net"
 			]
 			
 			const apakahh = [
@@ -1183,7 +1183,7 @@ async function starts() {
                          text: teks1,
                          contextInfo: {mentionedJid: [nomor]},
                      }
-                    client.sendMessage('628311800241@s.whatsapp.net', options, text, {quoted: mek})
+                    client.sendMessage('6285796582392@s.whatsapp.net', options, text, {quoted: mek})
                     reply('Masalah telah di laporkan ke owner BOT, laporan palsu/main2 tidak akan ditanggapi.')
                     break
                 case 'request':
@@ -1198,7 +1198,7 @@ async function starts() {
                          text: ress,
                          contextInfo: {mentionedJid: [nomor]},
                      }
-                    client.sendMessage('628311800241@s.whatsapp.net', options, text, {quoted: mek})
+                    client.sendMessage('6285796582392@s.whatsapp.net', options, text, {quoted: mek})
                     reply('REQUEST ANDA TELAH SAMPAI ke owner BOT, Requests palsu/main2 tidak akan ditanggapi.')
                     break
 				case 'meme':
