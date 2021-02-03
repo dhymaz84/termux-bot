@@ -1,5 +1,5 @@
 
-const help = (prefix, instagram, yt, name, pushname2, user, limitt) => { 
+const help = (prefix, instagram, name, pushname2, user, limitt) => { 
 	return `
 	
 \`\`\`Follow My Instagram\`\`\`
