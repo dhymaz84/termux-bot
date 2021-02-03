@@ -5,12 +5,6 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt) => {
 \`\`\`Follow My Instagram\`\`\`
 ${instagram}
 
-\`\`\`SUBSCRIBE😁\`\`\`
-${yt}
-
-\`\`\`GROUP OFFICIAL\`\`\`
-https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
-
 
 \`\`\`HARAP BACA NOTE DIBAWAH SEBELUM\`\`\`
 \`\`\`MENGGUNAKAN BOT\`\`\`
@@ -327,7 +321,7 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ╰────────────────────────
 
 
-╭─────「 *SUPPORT ${name}* 」
+╭─────「 *Thanks To ${name}* 」
 │
 ├➲ *O BOT*
 ├➲ *M. HADI FIRMANSYA*
